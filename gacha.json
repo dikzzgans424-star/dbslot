@@ -20,9 +20,11 @@
       "isPremium": true,
       "status": true,
       "result": "lose",
-      "claimed": false,
+      "claimed": true,
       "createdAt": 1780849904960,
-      "finishedAt": 1780850401143
+      "finishedAt": 1780850401143,
+      "claimedAt": 1780850415429,
+      "perubahan": -500000
     }
   ]
 }
