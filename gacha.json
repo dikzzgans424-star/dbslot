@@ -12,6 +12,16 @@
       "finishedAt": 1780849371456,
       "claimedAt": 1780849407045,
       "perubahan": -500000
+    },
+    {
+      "idgacha": "#GCH-MELVKE8LN68A",
+      "user": "6285810287828@s.whatsapp.net",
+      "money": 500000,
+      "isPremium": true,
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "createdAt": 1780849904960
     }
   ]
 }
