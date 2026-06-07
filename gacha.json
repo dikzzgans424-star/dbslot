@@ -46,10 +46,11 @@
       "money": 50000,
       "isPremium": true,
       "type": "slot3x3",
-      "status": false,
-      "result": null,
+      "status": true,
+      "result": "lose",
       "claimed": false,
-      "createdAt": 1780875191199
+      "createdAt": 1780875191199,
+      "finishedAt": 1780875210401
     }
   ]
 }
