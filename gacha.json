@@ -202,9 +202,11 @@
       "type": "slot3x3",
       "status": true,
       "result": "win",
-      "claimed": false,
+      "claimed": true,
       "createdAt": 1780920294708,
-      "finishedAt": 1780920369028
+      "finishedAt": 1780920369028,
+      "claimedAt": 1780924899401,
+      "perubahan": 500000
     },
     {
       "idgacha": "#GCH-RYFW3Y2ID82S",
