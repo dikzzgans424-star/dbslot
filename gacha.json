@@ -275,6 +275,19 @@
       "finishedAt": 1780937671320,
       "claimedAt": 1780938959048,
       "perubahan": -1000000
+    },
+    {
+      "idgacha": "#GCH-KF8DKKHTTBEG",
+      "user": "6285810287828@s.whatsapp.net",
+      "money": 500000,
+      "isPremium": true,
+      "type": "slot3x3",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "processing": false,
+      "createdAt": 1780942249754,
+      "finishedAt": null
     }
   ]
 }
