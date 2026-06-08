@@ -247,10 +247,12 @@
       "type": "slot3x3",
       "status": true,
       "result": "lose",
-      "claimed": false,
-      "processing": false,
+      "claimed": true,
+      "processing": true,
       "createdAt": 1780942249754,
-      "finishedAt": 1780942277054
+      "finishedAt": 1780942277054,
+      "claimedAt": 1780942294694,
+      "perubahan": -500000
     }
   ]
 }
