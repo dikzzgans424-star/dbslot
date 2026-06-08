@@ -355,12 +355,12 @@
       "money": 19347500,
       "isPremium": true,
       "type": "slot3x3",
-      "status": false,
-      "result": null,
+      "status": true,
+      "result": "lose",
       "claimed": false,
       "processing": false,
       "createdAt": 1780944094953,
-      "finishedAt": null
+      "finishedAt": 1780944120212
     }
   ]
 }
