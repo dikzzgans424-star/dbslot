@@ -527,10 +527,12 @@
       "type": "coinflip",
       "status": true,
       "result": "win",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780979768338,
-      "finishedAt": 1780979786963
+      "finishedAt": 1780979786963,
+      "claimedAt": 1780979789129,
+      "perubahan": 500000
     }
   ]
 }
