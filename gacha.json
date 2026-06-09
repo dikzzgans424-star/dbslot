@@ -351,10 +351,12 @@
       "type": "coinflip",
       "status": true,
       "result": "lose",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780976232400,
-      "finishedAt": 1780976257517
+      "finishedAt": 1780976257517,
+      "claimedAt": 1780976271713,
+      "perubahan": -500000
     }
   ]
 }
