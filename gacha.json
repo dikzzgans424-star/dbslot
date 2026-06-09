@@ -321,7 +321,7 @@
       "type": "roulette",
       "status": true,
       "result": "win",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780974292939,
       "finishedAt": 1780974315699
