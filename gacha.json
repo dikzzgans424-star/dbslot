@@ -559,10 +559,12 @@
       "type": "spaceman",
       "status": true,
       "result": "lose",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780982718899,
-      "finishedAt": 1780982733115
+      "finishedAt": 1780982733115,
+      "claimedAt": 1780982736422,
+      "perubahan": -1000000
     }
   ]
 }
