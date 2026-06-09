@@ -389,6 +389,20 @@
       "finishedAt": 1780976500306,
       "claimedAt": 1780976503478,
       "perubahan": -500000
+    },
+    {
+      "idgacha": "#GCH-MGEE53FFXMVO",
+      "user": "6285810287828@s.whatsapp.net",
+      "chatId": "6285810287828@s.whatsapp.net",
+      "money": 500000,
+      "isPremium": true,
+      "type": "horserace",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "processing": false,
+      "createdAt": 1780977635187,
+      "finishedAt": null
     }
   ]
 }
