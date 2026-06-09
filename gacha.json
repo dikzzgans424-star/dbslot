@@ -325,6 +325,20 @@
       "processing": false,
       "createdAt": 1780974292939,
       "finishedAt": 1780974315699
+    },
+    {
+      "idgacha": "#GCH-AVMS3VRIORJP",
+      "user": "6285810287828@s.whatsapp.net",
+      "chatId": "120363411645394259@g.us",
+      "money": 500000,
+      "isPremium": true,
+      "type": "roulette",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "processing": false,
+      "createdAt": 1780974408975,
+      "finishedAt": null
     }
   ]
 }
