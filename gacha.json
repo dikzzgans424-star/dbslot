@@ -365,12 +365,12 @@
       "money": 500000,
       "isPremium": true,
       "type": "spaceman",
-      "status": false,
-      "result": null,
+      "status": true,
+      "result": "win",
       "claimed": false,
       "processing": false,
       "createdAt": 1780976278333,
-      "finishedAt": null
+      "finishedAt": 1780976295548
     }
   ]
 }
