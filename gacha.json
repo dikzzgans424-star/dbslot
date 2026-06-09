@@ -421,6 +421,20 @@
       "finishedAt": 1780977712308,
       "claimedAt": 1780977732865,
       "perubahan": -500000
+    },
+    {
+      "idgacha": "#GCH-T4AK647JB23F",
+      "user": "6285810287828@s.whatsapp.net",
+      "chatId": "6285810287828@s.whatsapp.net",
+      "money": 500000,
+      "isPremium": true,
+      "type": "spaceman",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "processing": false,
+      "createdAt": 1780977740156,
+      "finishedAt": null
     }
   ]
 }
