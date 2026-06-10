@@ -3,8 +3,8 @@
     {
       "token": "TKNMQ7I9C5W2TP",
       "owner": "6285810287828@s.whatsapp.net",
-      "balance": 300,
-      "status": "active",
+      "balance": 0,
+      "status": "withdrawn",
       "isPremium": true,
       "history": [
         {
@@ -50,7 +50,9 @@
           "at": 1781068965188
         }
       ],
-      "createdAt": 1781061882836
+      "createdAt": 1781061882836,
+      "withdrawAt": 1781069017820,
+      "withdrawAmt": 300
     }
   ]
 }
