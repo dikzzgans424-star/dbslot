@@ -57,7 +57,7 @@
     {
       "token": "TKNMQ7MK7F5XY6",
       "owner": "6285810287828@s.whatsapp.net",
-      "balance": 261,
+      "balance": 311,
       "status": "active",
       "isPremium": true,
       "history": [
@@ -529,6 +529,13 @@
           "result": "lose",
           "change": -50,
           "at": 1781177650523
+        },
+        {
+          "game": "horserace",
+          "bet": 50,
+          "result": "win",
+          "change": 50,
+          "at": 1781177937893
         }
       ],
       "createdAt": 1781069108369
