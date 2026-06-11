@@ -57,7 +57,7 @@
     {
       "token": "TKNMQ7MK7F5XY6",
       "owner": "6285810287828@s.whatsapp.net",
-      "balance": 51,
+      "balance": 31,
       "status": "active",
       "isPremium": true,
       "history": [
@@ -690,6 +690,13 @@
           "result": "lose",
           "change": -50,
           "at": 1781179541897
+        },
+        {
+          "game": "blackjack",
+          "bet": 20,
+          "result": "lose",
+          "change": -20,
+          "at": 1781179560849
         }
       ],
       "createdAt": 1781069108369
