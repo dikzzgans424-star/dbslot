@@ -970,7 +970,7 @@
     {
       "token": "TKNMQAWY29M3LG",
       "owner": "6285810287828@s.whatsapp.net",
-      "balance": 588,
+      "balance": 663,
       "status": "active",
       "isPremium": true,
       "history": [
@@ -1610,6 +1610,13 @@
           "result": "win",
           "change": 50,
           "at": 1781446775897
+        },
+        {
+          "game": "roulette",
+          "bet": 50,
+          "result": "win",
+          "change": 75,
+          "at": 1781446800847
         }
       ],
       "createdAt": 1781267949562
