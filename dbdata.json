@@ -1575,6 +1575,13 @@
           "result": "lose",
           "change": -100,
           "at": 1781439960756
+        },
+        {
+          "game": "spaceman",
+          "bet": 1,
+          "result": "win",
+          "change": 0,
+          "at": 1781439980357
         }
       ],
       "createdAt": 1781267949562
